@@ -2,3 +2,5 @@ Este es mi primer documento
 BLA BLA BLA
 
 ERROR SOLUCIONADO
+
+Modificar git
